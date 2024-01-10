@@ -6,7 +6,7 @@
 | NIM   :| 312310480 |
 | KELAS :| TI.23.A.5 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
-| LINK YOUTUBE |  |
+| LINK YOUTUBE |https://youtu.be/mViPOvO3xaM?feature=shared  |
 
 ### Project UAS Bahasa Pemrograman
 
@@ -16,3 +16,5 @@
 - Program harus meminta input pilihan makanan dari pengguna.
 - Program harus menghitung total harga makanan yang dipesan.
 - Program harus menampilkan struk pembelian.
+
+![1](delfyno.svg)
